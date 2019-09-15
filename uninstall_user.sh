@@ -1,3 +1,3 @@
 #!/bin/sh -e
-rm ~/.local/share/fonts/MahoMoji.otf
+rm ~/.local/share/fonts/Maho-Moji.otf
 fc-cache -f -v
