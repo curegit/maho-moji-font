@@ -1,3 +1,3 @@
 #!/bin/sh -e
 sudo rm -r /usr/share/fonts/opentype/maho/
-fc-cache -f -v
+fc-cache -fv /usr/share/fonts/opentype/
