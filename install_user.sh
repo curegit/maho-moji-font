@@ -1,4 +1,5 @@
-#!/bin/sh -e
+#!/bin/sh
+set -e
 cd "$(dirname "$0")"
 mkdir -p ~/.local/share/fonts
 cp Maho-Moji.otf ~/.local/share/fonts/
